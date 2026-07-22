@@ -87,7 +87,7 @@ During multiple iterations of dataset generation, we observed:
 
 ## Key Design Principles
 
-To address these issues, the dataset pipeline enforces:
+To address the issues, the dataset pipeline enforces:
 
 ### 1. Tool Normalization
 
